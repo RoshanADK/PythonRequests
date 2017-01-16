@@ -1,2 +1,12 @@
 Just did it for fun . I am a bit lazy type of person . So I kinda wanted to do everything just using Terminal .
 Anyway Python has never disappointed me . It has always been a fun to learn python stuffs !
+
+Run the script Cricbuzz.py and it will give you current cricket love scores ! Just configure and get it in your Terminal .
+
+Run SandP.py to get current Standards and Poor 500 Index !
+
+Run Temperature.py to get current Temperature status !
+
+Run Stock_Gain.py to obtain Stock markets information !
+
+:) :) Enjoy Python :) :) 
